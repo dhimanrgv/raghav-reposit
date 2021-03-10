@@ -1,0 +1,14 @@
+div {
+  width: 100px;
+  height: 100px;
+  background-color: teal;
+}
+header {
+  width: 200px;
+  height: 100px;
+  background-color: #0012;
+}
+body {
+  width: auto;
+  background-color: #001;
+}
