@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Title</title>
+  <link rel="stylesheet" href="main.css">
+</head>
+<body>
+  <h1>Here's the problem:</h1>
+  <div>
+    <p>no padding</p>
+  </div>
+  <div class="pad-me">
+    <p>padding</p>
+  </div>
+  <h1>Here's the solution:</h1>
+  <div class="bb">
+    <p>no padding</p>
+    <p>box-sizing: border-box;</p>
+  </div>
+  <div class="pad-me bb">
+    <p>padding</p>
+    <p>box sizing: border-box;</p>
+    <p>PADDING & BORDER no longer increase width</p>
+  </div>
+</body>
+</html>
