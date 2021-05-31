@@ -1,0 +1,6 @@
+a {
+  font-size: 80px;
+}
+a:focus {
+  color: red;
+}

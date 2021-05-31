@@ -1,0 +1,7 @@
+body{
+  font-size: 30px;
+}
+
+li:nth-child(odd){
+  color: cyan;
+}

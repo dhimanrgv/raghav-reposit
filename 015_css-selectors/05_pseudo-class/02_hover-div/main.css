@@ -1,0 +1,14 @@
+body {
+  background-color: teal;
+  align-items: center;
+}
+div {
+  width: 70px;
+  height: 70px;
+  background-color: white;
+  display: inline-block;
+}
+div:hover {
+  background-color: red;
+  cursor: pointer;
+}

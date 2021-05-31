@@ -1,0 +1,13 @@
+body {
+  margin: auto;
+}
+
+p::first-letter{
+  color: red;
+  font-family: sans-serif;
+}
+
+p::first-line{
+  color: red;
+  font-family: cursive;
+}

@@ -1,0 +1,18 @@
+body {
+  margin: auto;
+  background-color: blue;
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: white;
+}
+a:hover {
+  color: pink;
+}
+a:active {
+  color: purple;
+}

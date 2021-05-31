@@ -1,0 +1,8 @@
+body{
+background-color: black;
+font: 20px;
+color: white;
+}
+  li:nth-last-child(10){
+  color: red;
+}
