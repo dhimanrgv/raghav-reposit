@@ -1,0 +1,20 @@
+div {
+  height: 100px;
+  width: 100px;
+  border: 5px groove cyan;
+  border-radius: 100%;
+}
+
+img {
+  border: 2px solid red;
+  border-radius: 100%;
+  display: block;
+}
+
+.first {
+  background-color: blue;
+}
+
+#second {
+  background-color: red;
+}

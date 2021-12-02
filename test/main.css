@@ -1,0 +1,19 @@
+a {
+  /* font-style: normal; */
+  font-weight: bold;
+  text-decoration: none;
+   color: white;
+   font-size: 1rem;
+   margin: auto;
+}
+
+div {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  align-self: auto;
+  display: inline-block;
+}
+.white {
+  background-color: cyan;
+}

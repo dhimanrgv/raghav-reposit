@@ -1,0 +1,8 @@
+.one {
+  text-decoration: underline;
+  color: red;
+}
+
+[target=_blank] {
+  color: blue;
+}
